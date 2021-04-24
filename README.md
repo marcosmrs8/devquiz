@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://media.giphy.com/media/oQkJkMqPcRky1T1nFh/giphy.gif"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
